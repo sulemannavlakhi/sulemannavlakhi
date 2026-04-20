@@ -5,7 +5,7 @@
 <div align="center">
   
 ## About me
-I am a **DevOps Engineer** with hands-on experience deploying end-to-end production-grade applications on Amazon ECS and EKS. I enjoy learning about **Cloud infrastructure, Automation, DevOps best practices** with a focus on building infrastructure that is **secure, scalable, reliable and repeatable.**
+I am a **DevOps Engineer** with hands-on experience deploying end-to-end production-grade applications on Amazon ECS and EKS. I enjoy learning about **Cloud** infrastructure, **Automation**, and **DevOps** best practices with a focus on building infrastructure that is **secure, scalable, reliable and repeatable.**
 
 </div>
 
